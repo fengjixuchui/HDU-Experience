@@ -13,6 +13,7 @@
   * [Java](./学习/Java)
   * [大学物理](./学习/大学物理)
   * [大职](./学习/大职)
+  * [电磁场与电磁波](./学习/电磁场与电磁波)
   * [电子书](./学习/电子书)
   * [电路与模拟电子技术基础](./学习/电路与模拟电子技术基础)
   * [电路原理](./学习/电路原理) 
@@ -29,6 +30,7 @@
   * [离散数学](./学习/离散数学)
   * [马原](./学习/马原)
   * [密码学](./学习/密码学)
+  * [人工智能导论](./学习/人工智能导论)
   * [软件工程](./学习/软件工程)
   * [软件需求分析](./学习/软件需求分析)
   * [数据结构](./学习/数据结构)
@@ -53,7 +55,7 @@
 自愿鼓励(所有捐赠均将被用于购买学习资料)~
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/FengGuanxi/GitHub-/master/%E6%94%AF%E4%BB%98%E5%AE%9D.jpg" height="300px" alt="支付宝打赏" >
+  <img src="https://cdn.nlark.com/yuque/0/2020/png/662957/1606920788794-288ddf7d-0a79-4e99-a0a5-71603def1e81.png" height="300px" alt="支付宝打赏" >
   <img src="https://github.com/FengGuanxi/GitHub-/blob/master/%E5%86%AF%E5%86%A0%E7%8E%BA%E7%9A%84%E7%BA%A2%E5%8C%85%E4%BA%8C%E7%BB%B4%E7%A0%81.PNG" height="300px" alt="扫我领红包" >
 </div>
 
